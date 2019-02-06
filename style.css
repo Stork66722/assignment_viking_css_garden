@@ -61,6 +61,7 @@ title {
 }
 
 html {
+    height:auto
   background-color: red; /* For browsers that do not support gradients */
   background-image: linear-gradient(red, yellow); /* Standard syntax (must be last) */
 }
