@@ -1,6 +1,8 @@
 assignment_viking_css_garden
 ============================
 
+Richard Lahaie
+
 A place for your styling creativity to grow
 
 
