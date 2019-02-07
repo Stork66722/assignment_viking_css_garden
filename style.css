@@ -1,3 +1,21 @@
+
+
+/* ----------------------------------- *
+ * Your Styles Here
+ * ----------------------------------- */
+
+
+title {
+    font-size: 100px
+}
+
+html {
+  background: #466368;
+  background: -webkit-linear-gradient(#648880, #293f50);
+  background:    -moz-linear-gradient(#648880, #293f50);
+  background:         linear-gradient(#648880, #293f50);
+}
+
 /* CSS Reset */
 
 /* http://meyerweb.com/eric/tools/css/reset/ 
@@ -49,23 +67,6 @@ table {
 	border-spacing: 0;
 }
 */
-
-
-/* ----------------------------------- *
- * Your Styles Here
- * ----------------------------------- */
-
-
-title {
-    font-size: 100px
-}
-
-html {
-  background: #466368;
-  background: -webkit-linear-gradient(#648880, #293f50);
-  background:    -moz-linear-gradient(#648880, #293f50);
-  background:         linear-gradient(#648880, #293f50);
-}
 
 
  
