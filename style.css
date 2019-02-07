@@ -16,6 +16,9 @@ body {
   background:         linear-gradient(#648880, #293f50);
 }
 
+html {
+    color:white
+}
 /* CSS Reset */
 
 /* http://meyerweb.com/eric/tools/css/reset/ 
