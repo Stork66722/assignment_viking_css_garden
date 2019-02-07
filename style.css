@@ -4,20 +4,12 @@
  * Your Styles Here
  * ----------------------------------- */
 html {
-    color:blue;
-    
-}
-
-body {
   background: #466368;
   background: -webkit-linear-gradient(#648880, #293f50);
   background:    -moz-linear-gradient(#648880, #293f50);
   background:         linear-gradient(#648880, #293f50);
 }
 
-title {
-    font-size: 400px;
-}
 
 
 
