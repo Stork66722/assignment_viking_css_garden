@@ -3,14 +3,22 @@
 /* ----------------------------------- *
  * Your Styles Here
  * ----------------------------------- */
-
-h1 {
-    font-style: italic;
-}
-
 html {
   background: #0066ff;
   background: -webkit-linear-gradient(#00ccff, #ffffff);
   background:    -moz-linear-gradient(#00ccff, #ffffff);
   background:         linear-gradient(#00ccff, #ffffff);
+  font-family:  Helvetica, "Times New Roman", sans-serif;
 }
+
+h1 {
+    font-style: italic;
+    text-align: center;
+    font-family: "El Messiri", Helvetica, "Times New Roman", sans-serif; 
+}
+
+
+
+
+
+
