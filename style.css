@@ -17,7 +17,10 @@ h1 {
     font-family: "El Messiri", Helvetica, "Times New Roman", sans-serif; 
 }
 
-
+img {
+    display: block;
+  max-width: 30%;
+}
 
 
 
