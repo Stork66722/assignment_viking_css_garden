@@ -6,6 +6,7 @@ html {
   background: -webkit-linear-gradient(#00ccff, #ffffff);
   background:    -moz-linear-gradient(#00ccff, #ffffff);
   background:         linear-gradient(#00ccff, #ffffff);
+  background: no-repeat;
   font-family: 'El Messiri', sans-serif;
 }
 
