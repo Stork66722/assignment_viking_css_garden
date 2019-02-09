@@ -2,11 +2,18 @@
  * Your Styles Here
  * ----------------------------------- */
 html {
+  height: 100%;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+  background-size: cover;    
   background: #0066ff;
+  background-repeat: no-repeat;    
   background: -webkit-linear-gradient(#00ccff, #ffffff);
-  background:    -moz-linear-gradient(#00ccff, #ffffff);
+  background: -moz-linear-gradient(#00ccff, #ffffff);
+  background: -ms-linear-gradient(#00ccff, #ffffff);
+  background: -o-linear-gradient(#00ccff, #ffffff);    
   background:         linear-gradient(#00ccff, #ffffff);
-  background: no-repeat;
   font-family: 'El Messiri', sans-serif;
 }
 
