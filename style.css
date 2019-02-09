@@ -52,6 +52,8 @@ img {
 }
 
 #sidebar {
+  float: right;
+  opacity: 0.3;
   height: 100%;
   width: 160px; 
   position: fixed; 
