@@ -10,7 +10,7 @@ html {
 }
 
 h1 {
-    font-weight: 200;
+    font-size: 24px;
     font-style: italic;
     text-align: center;
     
@@ -19,6 +19,7 @@ h1 {
 
 img {
     display: block;
+    float:left;
     height: 400px;
     width: 260px;
  
