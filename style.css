@@ -59,8 +59,7 @@ img {
   position: absolute;
   z-index: 1; 
   top: 0; 
-  left: 0;
-  background-color: #0066ff; 
+  left: 0; 
   overflow-x: hidden;
   padding-top: 20px;
   text-align: center;
@@ -71,5 +70,5 @@ main {
     margin-left:15%;
 }
 p {
-    margin: auto;
+    margin: 15px;
 }
