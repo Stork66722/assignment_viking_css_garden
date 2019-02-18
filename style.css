@@ -75,14 +75,19 @@ p {
 .tree {
     margin-left: 10px;
     margin-right: 10px;
+    height: 100px;
+    width: 65px;
 }
 .thor {
-    margin-left: 10px;
-    margin-right: 1opx;
+        margin-left: 10px;
+    margin-right: 10px;
     float: right;
+    height: 200px;
+    width: 130px;
 }
 .ragnorok {
     margin-left: 10px;
     margin-right: 10px;
-
+    height: 200px;
+    width: 120px;
 }
