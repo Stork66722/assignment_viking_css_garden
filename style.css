@@ -74,10 +74,15 @@ p {
 }
 .tree {
     margin-left: 10px;
+    margin-right: 10px;
 }
 .thor {
     margin-left: 10px;
+    margin-right: 1opx;
+    float: right;
 }
 .ragnorok {
     margin-left: 10px;
+    margin-right: 10px;
+
 }
